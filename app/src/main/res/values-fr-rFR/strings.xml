@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">First Steps</string>
+    <string name="main_activity_title">Première application de test</string>
+    <string name="name_hint">Entrez votre nom</string>
+    <string name="btn_yes_text">Oui !</string>
+    <string name="verification_text">Tu t\'appelles %1$s ?</string>
+    <string name="verified_text">Salut %1$s, tu peux continuer</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">First Steps</string>
+    <string name="main_activity_title">
+        Simple inter-activity communication</string>
+    <string name="name_hint">Enter your name</string>
+    <string name="btn_ok" translatable="false">Ok</string>
+    <string name="btn_yes_text">Yes!</string>
+    <string name="verification_text">
+        Are you really called %1$s?</string>
+    <string name="verified_text">
+        Welcome %1$s you may continue...</string>
+</resources>
